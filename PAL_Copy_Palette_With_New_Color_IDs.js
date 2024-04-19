@@ -1,6 +1,7 @@
 /*
 	Copy Palette With New Color IDs
 
+	A Toon Boom Harmony shelf script.
 	Make a copy of the selected palette in Colour view and then recolor the original colors used in drawings and Colour Selectors with the copied colors.
 	The copied colors have unique color IDs (thus independent from the original colors).
 	This script is ideal for creating a variant of an existing asset but with different colors.	
